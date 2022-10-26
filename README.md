@@ -157,4 +157,4 @@ No known bugs at this time.
 Nevillionaire - [Github](https://github.com/nevillionaire)  
 Mercy Kanyi - [Github](https://github.com/Mercy-Kanyi)
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copyright protection. 
