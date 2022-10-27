@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Zebbylion - [Github](https://github.com/zebbyG)
 Nevillionaire - [Github](https://github.com/nevillionaire)  
-Mercy Kanyi - [Github](https://github.com/Mercy-Kanyi)
 ## License
 Public Domain. No copyright protection. 
